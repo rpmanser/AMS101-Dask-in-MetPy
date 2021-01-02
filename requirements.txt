@@ -1,0 +1,4 @@
+metpy==0.12.2
+dask==2.30.0
+jupyterlab==2.2.9
+dask-jobqueue==0.7.1
